@@ -468,7 +468,7 @@ const RegistroVendas = () => {
                 value: servico.id,
               }))}
               optionLabel="name"
-              placeholder="Selecione o produto"
+              placeholder="Selecione o serviço"
               className="w-full md:w-14rem"
             />
             <label htmlFor="meioDePagamentoEdit" style={{ paddingTop: "10px" }}>
